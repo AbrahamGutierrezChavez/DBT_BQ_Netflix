@@ -1,0 +1,9 @@
+version: 2
+
+sources:
+  - name: netflix
+    tables:
+      - name: ip_location
+      - name: netflix_catalogo
+      - name: netflix_logs
+      - name: users
